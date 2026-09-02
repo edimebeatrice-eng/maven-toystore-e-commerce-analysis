@@ -1,5 +1,5 @@
 ## 1. Attract Dashboard
-
+[Attract Dashboard](https://github.com/edimebeatrice-eng/maven-toystore-e-commerce-analysis/blob/8867d32ca94298da2968ef23a7d94ccbb1c98b7c/Screenshots/Screenshot%20(33).png)
 ### Objective
 The Attract dashboard focuses on understanding how effectively the Mavin Toy Store attracts visitors to its website. It provides an overview of website traffic and helps identify patterns in customer interest and acquisition.
 

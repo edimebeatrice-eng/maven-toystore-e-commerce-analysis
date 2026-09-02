@@ -1,5 +1,5 @@
 ##  Monetize Dashboard
-
+[Monetize Dashboard](https://github.com/edimebeatrice-eng/maven-toystore-e-commerce-analysis/blob/c01e0a9830c65fab261d3fc175123354e732e490/Screenshots/Screenshot%20(35).png)
 ### Objective
 The Monetize dashboard focuses on understanding how effectively the Mavin Toy Store generates revenue from its website activity and customer purchases.
 

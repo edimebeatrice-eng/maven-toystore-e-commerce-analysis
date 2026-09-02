@@ -1,5 +1,6 @@
 ##  Convert Dashboard
 
+[Convert Dashboard](https://github.com/edimebeatrice-eng/maven-toystore-e-commerce-analysis/blob/8dc0122fa6fa5018ed4d4cf2df49204e44ce8b1c/Screenshots/Screenshot%20(34).png)
 ### Objective
 The Convert dashboard focuses on understanding how effectively website visitors are converted into customers. It uses conversion rate and related performance metrics to evaluate how well the e-commerce platform turns traffic into completed purchases.
 

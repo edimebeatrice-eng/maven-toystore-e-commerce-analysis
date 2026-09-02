@@ -1,5 +1,6 @@
 ## Traffic Matrix Quality 
 
+[Traffic Matrix Quality](https://github.com/edimebeatrice-eng/maven-toystore-e-commerce-analysis/blob/cbc5042b07b25f22c69c291717f020362463ebde/Screenshots/Screenshot%20(36).png)
 ### Objective
 The Traffic Matrix Quality dashboard evaluates the quality of website traffic by looking beyond the number of visitors. The aim is to understand whether the traffic coming to the Mavin Toy Store is meaningful and capable of contributing to business performance.
 
